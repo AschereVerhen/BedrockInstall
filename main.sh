@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-##Dependencies: Bash, curl, tar(with zstd), network(ie, networkmanager), mkfs.{ext,btrfs,fat,xfs,ntfs}, zenity, debootstrap
+##Dependencies: Bash, curl, tar(with zstd), network(ie, networkmanager), mkfs.{ext,fat,xfs}, zenity, debootstrap
 ##Sourcing functions
 source ./mounting.sh
 source ./getfstab.sh
